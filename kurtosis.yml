@@ -1,0 +1,4 @@
+name: github.com/rollkit/kurtosis-infra-package
+description: |-
+  Kurtosis package for spinning up rollkit services
+replace: {}
